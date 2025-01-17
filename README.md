@@ -1,8 +1,6 @@
 ## Hi there 
 
-**Caleb2103/Caleb2103** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
+I'm **software engineering** student from UPC, looking for new heights on programing!!
 
 -  I’m currently working on Quickrecap-App
 -  I’m currently learning React
