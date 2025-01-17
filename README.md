@@ -12,27 +12,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: Love playing Chess
 
 **Hablemos de... mis lenguajes favoritos!**
-
-* **Angular** 
   [![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://angular.io/)
-
-* **TypeScript**
   [![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
-
-* **Django**
   [![Django](https://img.shields.io/badge/django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
-
-* **Python**
   [![Python](https://img.shields.io/badge/python-brightgreen?style=for-the-badge&logo=python)](https://www.python.org/)
-
-* **SQL**
   [![SQL](https://img.shields.io/badge/sql-orange?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-
-* **PostgreSQL**
   [![PostgreSQL](https://img.shields.io/badge/postgresql-blue?style=for-the-badge&logo=postgresql)](https://www.postgresql.org/)
-
-* **Google Cloud**
   [![Google Cloud](https://img.shields.io/badge/google_cloud-white?style=for-the-badge&logo=google-cloud)](https://cloud.google.com/)
-
-* **Flutter**
   [![Flutter](https://img.shields.io/badge/flutter-blue?style=for-the-badge&logo=flutter)](https://flutter.dev/)
