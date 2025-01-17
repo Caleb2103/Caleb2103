@@ -1,6 +1,7 @@
-## Hi there 
+## Love-Coder landing! ✈️✨, let’s build something awesome together 🚀💻
 
-Hello!! 🚀 I’m a software engineer from UPC, on a mission to conquer new heights in programming (next stop: Mars, maybe?). I’ve got a solid grip on several programming languages and I’m always ready to debug my way to glory. 💻✨
+## About me:
+Hello!! I’m a software engineer (Fullstack) from Peru, on a mission to conquer new heights in programming (next stop: Mars, maybe?). I’ve got a solid grip on several programming languages and I’m always ready to program and create new things. 💻✨
 
 Whether it’s crafting elegant code or creating something awesome from nothing, I’m your go-to developer. Let’s connect and turn caffeine into code! ☕➡️💡
 
