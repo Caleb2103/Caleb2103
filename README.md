@@ -9,7 +9,7 @@ I'm **software engineering** student from UPC, looking for new heights on progra
 -  Pronouns: he/him
 - ⚡ Fun fact: Love playing Chess
 
-**Hablemos de... mis lenguajes favoritos!**
+**Let's talk about...my favourite languages!!**
   [![Angular](https://img.shields.io/badge/angular-red?style=for-the-badge&logo=angular)](https://angular.io/)
   [![TypeScript](https://img.shields.io/badge/typescript-blue?style=for-the-badge&logo=typescript)](https://www.typescriptlang.org/)
   [![Django](https://img.shields.io/badge/django-green?style=for-the-badge&logo=django)](https://www.djangoproject.com/)
